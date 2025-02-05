@@ -2,10 +2,9 @@
 
 An application used to generate random users based on https://randomuser.me/, built with React + Vite, JavaScript, and CSS.
 
-## Project Screen Shots
+## Project Screen Shot
 
 ![Alt text](./src/assets/desktop.png?raw=true)
-![Alt text](./src/assets/mobile.png?raw=true)
 
 ## Installation and Setup Instructions
 
